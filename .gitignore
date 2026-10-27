@@ -1,0 +1,10 @@
+# .gitignore
+.venv/
+.idea/
+
+
+# git init
+# git add .
+# git commit -m "Python Basic"
+# git remote add origin url yours
+# git push -u origin master
